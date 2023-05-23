@@ -1,7 +1,7 @@
 name: Run API tests
 on: 'push'
 jobs:
-  tests_e2e:
+  tests_api:
     name: Run API tests
     runs-on: ubuntu-latest
     steps:
